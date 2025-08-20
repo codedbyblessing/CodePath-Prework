@@ -1,10 +1,10 @@
 # CodePath-Prework
 
-# Prework - *CodePath2*
+# Prework - *CodePathRemix*
 
 Submitted by: **Blessing Yeboah**
 
-**CodePath2** is an app that Remixes the color scheme of the UI with a button named remix 
+**CodePath Remix** is an app that Remixes the color scheme of the UI with a button named remix 
 
 Time spent: **2** hours spent in total
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+[My App Demo]](https://youtu.be/L6XzlhU8-yU) .
 
 ## App Brainstorming 
 
@@ -38,7 +38,8 @@ Given these apps, I would create an app that is centered around Black culture an
 ## Notes
 
 Challenges encountered while building the app:
-- I had to familiarize myself with the Swift layout and see my code side by side. I have not done something like this in a while outside of Figma. 
+- I had to familiarize myself with the Swift layout and see my code side by side. I have not done something like this in a while outside of Figma.
+- I accidentally deleted a file and had to restart the app creation, by then I had been familiarized with Swift and XCode so it did not take too long.
 
 ## License
 
