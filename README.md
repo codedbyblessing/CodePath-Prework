@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[My App Demo](https://youtu.be/L6XzlhU8-yU) .
+[Full App Demo](https://youtu.be/L6XzlhU8-yU) 
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZvM2FqOTZtOTR0Z2Vxd2lzMm5ieWZmZWI0d2R3eG95NHVrZW10ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7PQHyu0pP2Vuf7xyg/giphy.gif" alt="codepathgif" width="400"/></p>
@@ -47,7 +47,7 @@ Challenges encountered while building the app:
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Blessing Yeboah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
