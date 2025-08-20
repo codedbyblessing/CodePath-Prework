@@ -4,7 +4,7 @@
 
 Submitted by: **Blessing Yeboah**
 
-**CodePath2** is an app that... [Remixes the color scheme of the UI with a button named remix] 
+**CodePath2** is an app that Remixes the color scheme of the UI with a button named remix 
 
 Time spent: **2** hours spent in total
 
@@ -17,29 +17,28 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
 ## App Brainstorming 
 
-My favortie apps:
+My favorite apps:
 - Notion
-    - I can easily organize my code project documentation and link my calendar to the workspace
+    - I can easily organize my code project documentation and link my calendar to the workspace.
     - The color theme is very neutral.
 - Pinterest
-    - I enjoy the online scrap book vibe that it gives.
-    - The recently added collage feature creates more room fro artistic expression. 
+    - I enjoy the online scrapbook vibe that it gives.
+    - The recently added collage feature creates more room for artistic expression. 
 - Spotify
-    - I enjoy the feature they added not too long ago of creating your own playlist cover
-    - The friends section adds a social aspect to it
-    - The reccomendation algorithm has increased my music library and exposed me to a lot of genres
+    - I enjoy the feature they added not too long ago of creating your playlist cover.
+    - The friends section adds a social aspect to it.
+    - The recommendation algorithm has increased my music library and exposed me to a lot of genres.
 
-Given these apps, I would create an app that is centered around Black culture and its creativity. I would take note of Pinterest’s algorithm and combine that with unique storytelling. I would then also utilize an AI model and train it to allow the user to create their own space on the app. The app would not be socially overwhelming; I enjoy apps that are minimally social like the ones listed above. The app would be a personalized hub dedicated to the expression of Black culture and creativity and part digital art gallery, part storytelling canvas. With AI integrated, users could curate, generate, and design their own cultural space, blending inspiration with creation. The goal would be to build a platform that uplifts voices, preserves stories, and celebrates the depth of Black artistry in a way that feels authentic, calm, and deeply personal.
+Given these apps, I would create an app that is centered around Black culture and its creativity. I would take note of Pinterest’s algorithm and combine that with unique storytelling. I would then also utilize an AI model and train it to allow the user to create their own space on the app. The app would not be socially overwhelming; I enjoy apps that are minimally social, like the ones listed above. The app would be a personalized hub dedicated to the expression of Black culture and creativity and part digital art gallery, part storytelling canvas. With AI integrated, users could curate, generate, and design their own cultural space, blending inspiration with creation. The goal would be to build a platform that uplifts voices, preserves stories, and celebrates the depth of Black artistry in a way that feels authentic, calm, and deeply personal.
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+- I had to familiarize myself with the Swift layout and see my code side by side. I have not done something like this in a while outside of Figma. 
 
 ## License
 
