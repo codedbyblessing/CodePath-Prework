@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  CodePath2
+//  CodePathRemix
 //
 //  Created by Blessing Yeboah on 8/20/25.
 //
@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         view.backgroundColor = randomColor
     }
     
+    
     func changeColor() -> UIColor{
 
         let red = CGFloat.random(in: 0...1)
@@ -28,6 +29,5 @@ class ViewController: UIViewController {
 
         return UIColor(red: red, green: green, blue: blue, alpha: 0.5)
     }
-    
 }
 

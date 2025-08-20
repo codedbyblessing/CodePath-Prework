@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  CodePath2
+//  CodePathRemix
 //
 //  Created by Blessing Yeboah on 8/20/25.
 //
