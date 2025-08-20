@@ -19,6 +19,10 @@ The following **required** functionality is completed:
 
 [My App Demo](https://youtu.be/L6XzlhU8-yU) .
 
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZvM2FqOTZtOTR0Z2Vxd2lzMm5ieWZmZWI0d2R3eG95NHVrZW10ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j7PQHyu0pP2Vuf7xyg/giphy.gif" alt="codepathgif" width="400"/></p>
+
+
 ## App Brainstorming 
 
 My favorite apps:
