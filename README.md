@@ -17,7 +17,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[My App Demo]](https://youtu.be/L6XzlhU8-yU) .
+[My App Demo](https://youtu.be/L6XzlhU8-yU) .
 
 ## App Brainstorming 
 
